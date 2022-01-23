@@ -6,3 +6,4 @@ print (a*b)
 print (a-b)
 tested
 edited on git hub
+print (a/b)
