@@ -1,6 +1,6 @@
 a=25
 b=70
-c=79
+c=80
 print (a+b)
 print (a*b)
 print (a-b)
